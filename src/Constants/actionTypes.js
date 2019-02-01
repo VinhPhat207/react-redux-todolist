@@ -1,0 +1,10 @@
+export const FILTER_ALL = 'FILTER_ALL';
+export const ADD_TASK = 'ADD_TASK';
+export const EDIT_TASK = 'EDIT_TASK';
+export const GET_TASKEDITING = 'GET_TASKEDITING';
+export const INITIALIZE_DATA = 'INITIALIZE_DATA';
+export const IS_ADD_NEW_TASK = 'IS_ADD_NEW_TASK';
+export const FILTER_LABEL = 'FILTER_LABEL';
+export const FILTER_PROGRESS = 'FILTER_PROGRESS';
+export const FILTER_PRIORITY = 'FILTER_PRIORITY';
+export const SORT = 'SORT';
